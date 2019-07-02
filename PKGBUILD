@@ -26,6 +26,7 @@ makedepends=(
 	'ros-build-tools'
 	${ros_makedepends[@]}
 	pkg-config
+	'git'
 )
 
 ros_depends=(
