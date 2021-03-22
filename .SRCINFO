@@ -1,7 +1,7 @@
 pkgbase = ros-melodic-roscpp-git
 	pkgdesc = ROS - roscpp is a C++ implementation of ROS.
 	pkgver = 29053c4
-	pkgrel = 2
+	pkgrel = 3
 	url = https://wiki.ros.org/roscpp
 	arch = i686
 	arch = x86_64
